@@ -86,7 +86,7 @@ Copy the four skill directories to your Claude Code global skills folder:
 
 ```bash
 # Clone this repo
-git clone https://github.com/your-username/computational-grounded-theory-multi-agent.git
+git clone https://github.com/tangxy2001-sketch/computational-grounded-theory-multi-agent.git
 cd computational-grounded-theory-multi-agent
 
 # Copy skills to global location
@@ -219,6 +219,12 @@ MIT License. See [LICENSE](LICENSE).
 
 ---
 
+## Contributors / 贡献者
+
+- [Xinyi Tang (@tangxy2001-sketch)](https://github.com/tangxy2001-sketch)
+
+---
+
 ## Citation / 引用
 
 If you use this toolkit in your research, please cite:
@@ -226,8 +232,8 @@ If you use this toolkit in your research, please cite:
 ```bibtex
 @software{cgt_multi_agent_2026,
   title={Computational Grounded Theory Multi-Agent Toolkit},
-  author={[Your Name]},
+  author={[Xinyi Tang]},
   year={2026},
-  url={https://github.com/your-username/computational-grounded-theory-multi-agent}
+  url={https://github.com/tangxy2001-sketch/computational-grounded-theory-multi-agent}
 }
 ```
